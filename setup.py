@@ -16,7 +16,7 @@ except:
 
 setup(
     name="kaniattrdict",
-    version="3.0.0",
+    version="3.0.1",
     author="Fx Kirin",
     author_email="fx.kirin@gmail.com",
     packages=("kaniattrdict",),
