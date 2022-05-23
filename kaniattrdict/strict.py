@@ -5,7 +5,7 @@ from collections.abc import Mapping
 
 import six
 
-from attrdict.default import AttrDefault
+from .default import AttrDefault
 
 
 __all__ = ['AttrStrictKey']
